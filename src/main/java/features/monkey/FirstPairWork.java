@@ -11,7 +11,7 @@ public class FirstPairWork implements features.FirstPairWork {
 	@Override
 	public String getMembers() {
 		// TODO Auto-generated method stub
-		return null;
+		return "getMembers";
 	}
 
 }
